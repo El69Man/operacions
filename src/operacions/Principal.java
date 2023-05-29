@@ -1,7 +1,7 @@
 package operacions;
 
 public class Principal {
-
+	// Pendent provar la crida al factorialRecursiu
 	public static void main(String[] args) {
 		Factorial fact = new Factorial();
 		try {
